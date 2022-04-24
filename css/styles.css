@@ -55,12 +55,12 @@ main > .tagline {
 	font-weight: 100;
 }
 
-main > .blog {
+main > .text-links {
 	font-family: 'Reem Kufi', sans-serif;
 	margin-top: 1.5rem;
 }
 
-.blog > a {
+.text-links > a {
 	text-decoration: inherit;
 }
 
